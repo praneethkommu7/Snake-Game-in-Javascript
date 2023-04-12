@@ -1,4 +1,4 @@
-<h1>Snake Game</h1>
+<h1>Snake Game in Javascript</h1>
 This is a simple Snake Game implemented using HTML, CSS, and JavaScript. The game is designed to be played both on a PC using keyboard arrow keys and on a mobile device using touch-based arrow buttons. The objective of the game is to eat as many apples as possible without hitting the walls or the snake's own tail. The game ends when the snake collides with a wall or its own tail.
 
 <h3>Technologies Used</h3>
@@ -25,7 +25,7 @@ To run the game locally, simply clone this repository and open the index.html fi
 <h3>Contributing</h3>
 Contributions to this project are welcome. If you would like to contribute, please fork this repository and submit a pull request with your changes. Before submitting a pull request, please make sure to run the tests and ensure that they pass.
 
-<h1>Enjoy The Game!</h1>
+<h2>Enjoy the game!</h2>
 
 
 
