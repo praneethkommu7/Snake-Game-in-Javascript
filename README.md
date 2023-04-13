@@ -3,9 +3,9 @@ This is a simple Snake Game implemented using HTML, CSS, and JavaScript. The gam
 
 <h3>Technologies Used</h3>
 <ul>
-<li>HTML5</li>
-<li>CSS3</li>
-<li>JavaScript ES6</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
 </ul>
 
 <h3>How to Play</h3>
@@ -26,20 +26,3 @@ To run the game locally, simply clone this repository and open the index.html fi
 Contributions to this project are welcome. If you would like to contribute, please fork this repository and submit a pull request with your changes. Before submitting a pull request, please make sure to run the tests and ensure that they pass.
 
 <h2>Enjoy the game!</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
